@@ -1,7 +1,7 @@
 # News-App!
  
 Here Below, All the screenshots are uploaded, those are related to all the functionality of this application.
-[Screenshot_20221003-192746](https://user-images.githubusercontent.com/56255301/193599145-41cbfa02-8687-4d29-accf-7d8da88245db.png)
+![Screenshot_20221003-192746](https://user-images.githubusercontent.com/56255301/193599145-41cbfa02-8687-4d29-accf-7d8da88245db.png)
 ![Screenshot_20221003-192755](https://user-images.githubusercontent.com/56255301/193599193-88f702f3-3905-4379-bc77-4a32bd7645ec.png)
 ![Screenshot_20221003-192832](https://user-images.githubusercontent.com/56255301/193599222-d39dfab0-7c36-422f-86e1-40738b86cfcf.png)
 ![Screenshot_20221003-192837](https://user-images.githubusercontent.com/56255301/193599232-7dc2d138-715c-496b-86ea-d930398d3a35.png)
